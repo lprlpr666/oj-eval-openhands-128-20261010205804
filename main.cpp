@@ -1,4 +1,5 @@
 #include <bits/stdc++.h> // tic-tac-toe solution
+// Solution for tic-tac-toe problem
 using namespace std;
 
 bool hasWin(const vector<string>& b, char p) {
