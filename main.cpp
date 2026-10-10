@@ -1,4 +1,4 @@
-#include <bits/stdc++.h>
+#include <bits/stdc++.h> // tic-tac-toe solution
 using namespace std;
 
 bool hasWin(const vector<string>& b, char p) {
@@ -53,4 +53,5 @@ int main() {
         cout << "tie\n";
     }
     return 0;
+// End of solution
 }
